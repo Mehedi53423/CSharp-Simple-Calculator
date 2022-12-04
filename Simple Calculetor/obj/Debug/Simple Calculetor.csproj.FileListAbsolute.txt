@@ -1,0 +1,11 @@
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\bin\Debug\Simple Calculetor.exe.config
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\bin\Debug\Simple Calculetor.exe
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\bin\Debug\Simple Calculetor.pdb
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple Calculetor.csproj.AssemblyReference.cache
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple Calculetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple_Calculetor.Form1.resources
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple_Calculetor.Properties.Resources.resources
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple Calculetor.csproj.GenerateResource.cache
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple Calculetor.csproj.CoreCompileInputs.cache
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple Calculetor.exe
+C:\Users\Tech Land\source\repos\Simple Calculetor\Simple Calculetor\obj\Debug\Simple Calculetor.pdb
